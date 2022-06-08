@@ -14,4 +14,4 @@ Sign in with Google account
 ACTUAL RESULT
 Clicking on the "Google" button leads to an error page
 ATTACHMENTS
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/XJx4GTyW/kayakgoogle.jpg' border='0' alt='kayakgoogle'/></a>
+<img src='https://i.postimg.cc/XJx4GTyW/kayakgoogle.jpg' border='0' alt='kayakgoogle'/>
