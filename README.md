@@ -6,9 +6,9 @@ ID1<br>
 TITLE<br>
 Unable to sign in with Google account<br>
 ACTION PERFORMED<br>
-1. Open kayak.com<br>
-2. Click the button "Sign in" in the top right corner<br>
-3. In the pop-up window choose "Google"<br>
+1.Open kayak.com<br>
+2.Click the button "Sign in" in the top right corner<br>
+3.In the pop-up window choose "Google"<br>
 EXPECTED RESULT<br>
 Sign in with Google account<br>
 ACTUAL RESULT<br>
