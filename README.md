@@ -15,3 +15,4 @@ ACTUAL RESULT
 Clicking on the "Google" button leads to an error page
 ATTACHMENTS
 <img src='https://i.postimg.cc/XJx4GTyW/kayakgoogle.jpg' border='0' alt='kayakgoogle'/>
+<a href='https://postimg.cc/kVnvzVn2' target='_blank'><img src='https://i.postimg.cc/GpDgBYVx/kayakmap.jpg' border='0' alt='kayakmap'/></a>
