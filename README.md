@@ -29,7 +29,8 @@ The map shows the prices of hotels in a particular region<br>
 ACTUAL RESULT<br>
 Prices don't appear<br>
 ATTACHMENTS<br><br>
-<img src='https://i.ibb.co/SXN6H2v/kayakmap.jpg' border='0' alt='kayakmap'/>
+
+<img src='https://i.ibb.co/SXN6H2v/kayakmap.jpg' alt='kayakmap' border='0'>
 <br><br>
 
 ID3<br>
