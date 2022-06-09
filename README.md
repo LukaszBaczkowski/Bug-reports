@@ -49,3 +49,21 @@ Prices are sorted randomly<br>
 ATTACHMENTS<br><br>
 <img src='https://i.ibb.co/nQvmR2C/kayaksortprice.jpg' alt='kayakgoogle' border='0'>
 <br><br>
+
+<h2>Hawaiian Airlines</h2>
+
+ID1<br>
+TITLE<br>
+The "Exit/Close" button in "Chat with us" is not visible<br>
+ACTION PERFORMED<br>
+1.Open "Hawaiian" app<br>
+2.In the bottom right corner tap "More"<br>
+3.Select "Chat with us"<br>
+EXPECTED RESULT<br>
+There should be an exit button in the top left corner of the chat<br>
+ACTUAL RESULT<br>
+The exit button is not visible<br>
+ATTACHMENTS<br><br>
+<img src='https://i.ibb.co/CWyWgMs/hawaiimg.png' alt='hawaiimg' border='0'>
+
+<br><br>
