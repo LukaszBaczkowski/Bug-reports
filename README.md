@@ -64,6 +64,6 @@ There should be an exit button in the top left corner of the chat<br>
 ACTUAL RESULT<br>
 The exit button is not visible<br>
 ATTACHMENTS<br><br>
-<img src='https://i.ibb.co/CWyWgMs/hawaiimg.png' alt='hawaiimg' border='0' height='50%' width='50%'>
+<img src='https://i.ibb.co/CWyWgMs/hawaiimg.png' alt='hawaiimg' border='0' height='50%'>
 
 <br><br>
