@@ -85,6 +85,6 @@ The selected image from the article is displayed<br>
 ACTUAL RESULT<br>
 Instead of displaying images related to a specific part of an article, it displays the entire collection of images and videos<br>
 ATTACHMENTS<br><br>
-<img src='img src="https://i.ibb.co/bs26swy/carre2.jpg' alt='carre2' border='0' height='400px'>
+<img src='https://i.ibb.co/bs26swy/carre2.jpg' alt='carre2' border='0' height='400px'>
 
 <br><br>
