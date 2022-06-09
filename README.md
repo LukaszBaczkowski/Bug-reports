@@ -14,5 +14,5 @@ Sign in with Google account<br>
 ACTUAL RESULT<br>
 Clicking on the "Google" button leads to an error page<br>
 ATTACHMENTS<br>
-<a href='https://postimg.cc/47Krj252' target='_blank'><img src='https://i.postimg.cc/47Krj252/kayakgoogle.jpg' border='0' alt='kayakgoogle'/></a>
+<img src='https://postimg.cc/BtLxNWGr' border='0' alt='kayakgoogle'/>
 <a href='https://postimg.cc/kVnvzVn2' target='_blank'><img src='https://i.postimg.cc/GpDgBYVx/kayakmap.jpg' border='0' alt='kayakmap'/></a>
