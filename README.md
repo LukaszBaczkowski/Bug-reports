@@ -2,19 +2,20 @@
 
 ## Kayak
 
-ID1
-TITLE
-Unable to sign in with Google account
-ACTION PERFORMED
+>ID1
+>TITLE
+>Unable to sign in with Google account
+>ACTION PERFORMED
 1.Open kayak.com
 2.Click the button "Sign in" in the top right corner
 3.In the pop-up window choose "Google"
-EXPECTED RESULT
-Sign in with Google account
-ACTUAL RESULT
-Clicking on the "Google" button leads to an error page
-ATTACHMENTS
-<img src='https://i.ibb.co/fk6vFtV/kayakgoogle.jpg' alt='kayakgoogle' border='0'>
+>EXPECTED RESULT
+>Sign in with Google account
+>ACTUAL RESULT
+>Clicking on the "Google" button leads to an error page
+>
+>ATTACHMENTS
+><img src='https://i.ibb.co/fk6vFtV/kayakgoogle.jpg' alt='kayakgoogle' border='0'>
 
 
 ID2
